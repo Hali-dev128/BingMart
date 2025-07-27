@@ -18,10 +18,3 @@
 
 - **HTML5** – Semantic structure and accessibility
 - **CSS3** – Styling and responsive layout using Flexbox and Media Queries
-
----
-
-## 📸 Demo
-
-[🔗 Live Demo](#)  
-_(Replace this with your deployed site link – e.g. GitHub Pages, Netlify)_
